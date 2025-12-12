@@ -29,9 +29,9 @@ Here are my key repositories demonstrating my work in Control Theory and Softwar
 
 | Project | Description | Stack | Status |
 | :--- | :--- | :--- | :--- |
-| **[EnKF-MPPI-DeepONet](https://github.com/yugo0822/EnKF-MPPI-DeepONet)** | **Research Project:** Implementation of EnKF-MPPI control using DeepONet as a dynamics predictor for the Lorenz-63 model. | Python, PyTorch | 🔒 *Readme & Demo* |
-| **[EnKF-MPPI-RK4](https://github.com/yugo0822/EnKF-MPPI-RK4)** | **Baseline Implementation:** A fully dockerized implementation of EnKF-MPPI using Runge-Kutta methods. Demonstrates my coding standards and architecture. | Python, Docker | 🚀 **Code Public** |
-| **[Collaborative-App](https://github.com/yugo0822/Your-App-Name)** | **Collaborative Dev:** A web application developed with friends, focusing on modern web standards. | TypeScript, React | 🤝 Public |
+| **[EnKF-MPPI-DeepONet](https://github.com/yugo0822/EnKF-MPPI-DeepONet)** | **Research Project:** Implementation of EnKF-MPPI control using DeepONet as a dynamics predictor for the Lorenz-63 model. | Python, PyTorch, Docker | 🔒 *Readme & Demo* |
+| **[EnKF-MPPI-RK4](https://github.com/yugo0822/EnKF-MPPI-RK4)** | **Baseline Implementation:** implementation of EnKF-MPPI using Runge-Kutta methods. Demonstrates my coding standards and architecture. | Python, PyTorch, Docker | 🚀 **Code Public** |
+| **[Collaborative-App](https://github.com/yugo0822/Your-App-Name)** | **Collaborative Dev:** A web application developed with friends, focusing on modern web standards. | TypeScript, React, Supabase | 🤝 Public |
 
 ---
 
