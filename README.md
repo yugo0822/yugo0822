@@ -3,10 +3,24 @@
 **Undergraduate Student at Kyoto University | Incoming Exchange Student at The University of Sydney**
 
 I am an Electrical and Electronic Engineering student with a strong passion for **Control Theory** and **Machine Learning**.
-My current research focuses on integrating Deep Operator Networks (**DeepONet**) with Model Predictive Path Integral (**MPPI**) control for complex dynamical systems.
+My current research is a **fundamental study aimed at controlling Partial Differential Equations (PDEs)**. I utilize Deep Operator Networks (**DeepONet**) within the Model Predictive Path Integral (**MPPI**) framework to address the challenges of controlling high-dimensional distributed parameter systems.
 
 Starting from **August 2026**, I will be joining the **University of Sydney** as an exchange student. I am actively looking for research opportunities and internships in Sydney where I can contribute with my skills in robotics, simulation, and software development.
 
+<details>
+<summary><strong>🇯🇵 日本語の自己紹介（Click to expand）</strong></summary>
+
+<br>
+
+**京都大学 工学部 電気電子工学科 | シドニー大学 交換留学生 (2026年8月~)**
+
+**偏微分方程式（PDE）の制御**の実現に向けた基礎研究を行っています。
+具体的には、Deep Operator Networks (**DeepONet**) を用いたダイナミクス予測と Model Predictive Path Integral (**MPPI**) を組み合わせることで、高次元な分布定数系のリアルタイム制御手法を検証しています。
+
+2026年8月より、交換留学生としてシドニー大学へ留学予定です。
+現地では、ロボティクス・シミュレーション・ソフトウェア開発のスキルを活かせる研究インターンシップや、エンジニアとしての就業機会を積極的に探しています。
+
+</details>
 ---
 
 ### 🔭 Current Research & Projects
