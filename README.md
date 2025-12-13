@@ -1,4 +1,4 @@
-# Hi there, I'm Sudo! 👋
+# Hi there, I'm Yugo! 👋
 
 **Undergraduate Student at Kyoto University | Incoming Exchange Student at The University of Sydney**
 
