@@ -36,7 +36,8 @@ Starting from **August 2026**, I will be joining the **University of Sydney** as
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 **DeFi**  
-Solidity, Foundry
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Foundry](https://img.shields.io/badge/Foundry-eaeaea?style=for-the-badge&logo=foundry&logoColor=black)
 
 ---
 
