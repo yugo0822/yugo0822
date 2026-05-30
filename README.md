@@ -7,6 +7,8 @@ My current research is a **fundamental study aimed at controlling Partial Differ
 
 Starting from **August 2026**, I will be joining the **University of Sydney** as an exchange student. I am actively looking for research opportunities and internships in Sydney where I can contribute my skills and gain practical experience.
 
+I am also interested in Financial Engineering, especially in decentralized finance (DeFi). Currently, I am passionate about developing hooks for Uniswap, and I have participated in the Uniswap Hook Incubator 9 program.
+
 <details>
 <summary><strong>🇯🇵 日本語の自己紹介（Click to expand）</strong></summary>
 
@@ -20,6 +22,8 @@ Starting from **August 2026**, I will be joining the **University of Sydney** as
 2026年8月より、交換留学生としてシドニー大学へ留学予定です。
 現地では、ロボティクス・シミュレーション・ソフトウェア開発のスキルを活かせる研究インターンシップや、エンジニアとしての就業機会を積極的に探しています。
 
+また、金融工学にも興味があり、特に分散型金融（DeFi）の分野であるUniswapのHook作成に熱意を持って取り組んでいます。
+Uniswap Hook Incubator 9にも参加しました。
 </details>
 
 ### 🛠 Technical Skills
