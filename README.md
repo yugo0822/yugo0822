@@ -21,17 +21,6 @@ Starting from **August 2026**, I will be joining the **University of Sydney** as
 現地では、ロボティクス・シミュレーション・ソフトウェア開発のスキルを活かせる研究インターンシップや、エンジニアとしての就業機会を積極的に探しています。
 
 </details>
----
-
-### 🔭 Current Research & Projects
-
-Here are my key repositories demonstrating my work in Control Theory and Software Engineering:
-
-| Project | Description | Stack | Status |
-| :--- | :--- | :--- | :--- |
-| **[Collaborative-App](https://github.com/yugo0822/Your-App-Name)** | **Collaborative Dev:** A web application developed with friends, focusing on modern web standards. | TypeScript, React, Supabase | 🤝 Public |
-
----
 
 ### 🛠 Technical Skills
 
