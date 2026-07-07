@@ -1,29 +1,28 @@
 # Hi there, I'm Yugo! 👋
 
-**Undergraduate Student at Kyoto University | Incoming Exchange Student at The University of Sydney**
+**Master's Student at Kyoto University | Incoming Exchange Student at The University of Sydney**
 
-I am an Electrical and Electronic Engineering student with a strong passion for **Control Theory** and **Machine Learning**.
+I am an Electrical and Electronic Engineering student with a strong passion for **Control Theory** , **Machine Learning**, and their application to **Quantitative Finance**.
+
 My current research is a **fundamental study aimed at controlling Partial Differential Equations (PDEs)**. I utilize Deep Operator Networks (**DeepONet**) within the Model Predictive Path Integral (**MPPI**) framework to predict complex system dynamics and optimize control inputs.
 
-Starting from **August 2026**, I will be joining the **University of Sydney** as an exchange student. I am actively looking for research opportunities and internships in Sydney where I can contribute my skills and gain practical experience.
+Starting **August 2026**, I will be joining the **University of Sydney** as an exchange student. I am actively looking for research opportunities and internships in Sydney at the intersection of **control theory, machine learning, and quantitative methods**.
 
-I am also interested in Financial Engineering, especially in decentralized finance (DeFi). Currently, I am passionate about developing hooks for Uniswap, and I have participated in the Uniswap Hook Incubator 9 program.
+I am also interested in **Financial Engineering**, especially decentralized finance (DeFi). I participated in the **Uniswap Hook Incubator 9 (UHI9)** , where I built **TrancheGuard** — a Uniswap v4 hook that tranches impermanent loss risk between liquidity providers using simulation-based pricing.
 
 <details>
 <summary><strong>🇯🇵 日本語の自己紹介（Click to expand）</strong></summary>
 
 <br>
 
-**京都大学 工学部 電気電子工学科 | シドニー大学 交換留学生 (2026年8月~)**
+**京都大学 工学研究科 電気電子デジタル理工学専攻 | シドニー大学 交換留学生 (2026年8月~)**
 
 **偏微分方程式（PDE）の制御**の実現に向けた基礎研究を行っています。
 具体的には、Deep Operator Networks (**DeepONet**) を用いたダイナミクス予測と Model Predictive Path Integral (**MPPI**) を組み合わせることで、高次元な分布定数系の制御問題に取り組んでいます。
 
-2026年8月より、交換留学生としてシドニー大学へ留学予定です。
-現地では、ロボティクス・シミュレーション・ソフトウェア開発のスキルを活かせる研究インターンシップや、エンジニアとしての就業機会を積極的に探しています。
+2026年8月より、交換留学生としてシドニー大学へ留学予定です。現地では、**制御理論・機械学習・金融工学**の交差する領域で、研究インターンシップやエンジニアとしての就業機会を積極的に探しています。
 
-また、金融工学にも興味があり、特に分散型金融（DeFi）の分野であるUniswapのHook作成に熱意を持って取り組んでいます。
-Uniswap Hook Incubator 9にも参加しました。
+また、金融工学、特に分散型金融（DeFi）にも関心があります。**Uniswap Hook Incubator 9 (UHI9)**に参加し、**TrancheGuard**（シミュレーションベースの価格付けにより流動性提供者間の変動損失リスクをトランシェ化する Uniswap v4 hook）を開発しました。
 </details>
 
 ### 🛠 Technical Skills
